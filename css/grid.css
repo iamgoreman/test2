@@ -1,0 +1,117 @@
+.container {
+    width: 1140px;
+    /*height: 800px;*/
+    /*position: absolute;
+    right: 100px;*/
+    margin-left: auto;
+    margin-right: auto;
+    /*background-color: #eeeeee;*/
+}
+
+.one {
+    width: 65px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.two {
+    width: 160px;
+   /* height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.three {
+    width: 255px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.four {
+    width: 350px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.five {
+    width: 445px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.six {
+    width: 540px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.seven {
+    width: 635px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.eight {
+    width: 730px;
+   /* height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.nine {
+    width: 825px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.ten {
+    width: 920px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.eleven {
+    width: 1015px;
+    /*height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.twelve {
+    width: 1110px;
+   /* height: 60px;*/
+    display: inline;
+    float: left;
+    margin-left: 15px;
+    margin-right: 15px;
+}
